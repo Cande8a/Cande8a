@@ -12,6 +12,13 @@ Here are some of the programming languages and technologies I work with:
 - Python 🐍
 - Java ☕
 - C++ 🖥️
+- Django 🌐
+- Docker 🐳
+- Data Analysis Tools (SciPy, Pandas, NumPy)
+- Machine Learning Frameworks (TensorFlow, Scikit-Learn)
+- Web Development (HTML, CSS, React.js)
+- Database Management (MySQL, PostgreSQL, Redis)
+- Case Report Forms 📋
 - ...
 
 ## Projects
@@ -21,6 +28,7 @@ While some of my most significant projects are within private repositories for m
 ## Let's Connect!
 
 Looking to discuss new opportunities, collaborations, or simply network? Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/maria-candelaria-ochoa-romero) or [email](mailto:mc.ochoaromero@gmail.com). Let's innovate and create together!
+
 
 
 
