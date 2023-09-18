@@ -18,11 +18,11 @@ Feel free to explore my repositories to see my work and how I've applied these s
 
 ## Projects
 
-While some of my most significant projects are within private repositories for my current organization, I have had the privilege to work on cutting-edge software solutions that impact various industries, including image evaluation, data analysis, and machine learning. If you'd like to learn more about these projects or discuss my contributions in detail, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/maria-candelaria-ochoa-romero) or [email](mc.ochoaromero@gmail.com). I'm always open to discussing my work and exploring potential collaborations.
+While some of my most significant projects are within private repositories for my current organization, I have had the privilege to work on cutting-edge software solutions that impact various industries, including image evaluation, data analysis, and machine learning. If you'd like to learn more about these projects or discuss my contributions in detail, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/maria-candelaria-ochoa-romero) or [email](mailto:mc.ochoaromero@gmail.com). I'm always open to discussing my work and exploring potential collaborations.
 
 ## Let's Connect!
 
-Looking to discuss new opportunities, collaborations, or simply network? Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/maria-candelaria-ochoa-romero) or [email](mc.ochoaromero@gmail.com). Let's innovate and create together!
+Looking to discuss new opportunities, collaborations, or simply network? Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/maria-candelaria-ochoa-romero) or [email](mailto:mc.ochoaromero@gmail.com). Let's innovate and create together!
 
 
 
