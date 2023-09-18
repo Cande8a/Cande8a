@@ -14,8 +14,6 @@ Here are some of the programming languages and technologies I work with:
 - C++ 🖥️
 - ...
 
-Feel free to explore my repositories to see my work and how I've applied these skills in various projects.
-
 ## Projects
 
 While some of my most significant projects are within private repositories for my current organization, I have had the privilege to work on cutting-edge software solutions that impact various industries, including image evaluation, data analysis, and machine learning. If you'd like to learn more about these projects or discuss my contributions in detail, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/maria-candelaria-ochoa-romero) or [email](mailto:mc.ochoaromero@gmail.com). I'm always open to discussing my work and exploring potential collaborations.
